@@ -20,7 +20,7 @@ const sampleListings = [
       url: "https://images.unsplash.com/photo-1501785888041-af3ef285b470?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fHRyYXZlbHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=800&q=60",
     },
     price: 1200,
-    location: "New York City",
+    location: " New York City",
     country: "United States",
   },
   {
@@ -72,7 +72,7 @@ const sampleListings = [
     country: "Mexico",
   },
   {
-    title: "Rustic Cabin by the Lake",
+    title: "Rustic Cabin Newby the Lake",
     description:
       "Spend your days fishing and kayaking on the serene lake. This cozy cabin is perfect for outdoor enthusiasts.",
     image: {
