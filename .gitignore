@@ -1,7 +1,3 @@
-.env
- node_modules/
-
- 
  🏡 Airbnb Clone — Property Booking & Listing Platform
 
 A web application inspired by Airbnb, allowing property owners to list rentals and users to browse, view details, and book stays.
@@ -45,3 +41,5 @@ Understand property listing & booking workflows
 Practice location-based UI with Mapbox APIs
 
 Improve responsive and component-style UI building
+.env
+ node_modules/
