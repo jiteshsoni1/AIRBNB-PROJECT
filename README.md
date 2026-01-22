@@ -1,4 +1,4 @@
-🏡 Airbnb Clone — Property Booking & Listing Platform
+# Airbnb Clone — Property Booking & Listing Platform
 
 A web application inspired by Airbnb, allowing property owners to list rentals and users to browse, view details, and book stays.
 
